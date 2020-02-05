@@ -11,7 +11,6 @@ import AVFoundation
 
 class ViewController: UIViewController {
     
-    
     @IBOutlet weak var progressBar: UIProgressView!
     @IBOutlet weak var titleLabel: UILabel!
     
