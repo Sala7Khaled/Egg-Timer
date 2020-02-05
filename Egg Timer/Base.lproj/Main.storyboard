@@ -127,7 +127,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Gok-LF-oP0" userLabel="Timer View">
                                         <rect key="frame" x="0.0" y="558.5" width="374" height="259.5"/>
                                         <subviews>
-                                            <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" progressViewStyle="bar" progress="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="1qx-ic-812">
+                                            <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" progressViewStyle="bar" translatesAutoresizingMaskIntoConstraints="NO" id="1qx-ic-812">
                                                 <rect key="frame" x="0.0" y="127.5" width="374" height="6"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="5" id="duP-TQ-1kQ"/>
